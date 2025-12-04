@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there! I'm MatD1
+# 👋 Hey there! I'm Mat
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Always+learning%2C+always+building!" alt="Typing SVG" />
 
